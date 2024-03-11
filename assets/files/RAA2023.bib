@@ -1,0 +1,14 @@
+@article{Mu_2023,
+doi = {10.1088/1674-4527/acee50},
+url = {https://dx.doi.org/10.1088/1674-4527/acee50},
+year = {2023},
+month = {sep},
+publisher = {National Astromonical Observatories, CAS and IOP Publishing},
+volume = {23},
+number = {10},
+pages = {105011},
+author = {Yifei Mu and Ce Yu and Chao Sun and Kun Li and Yajie Zhang and Jizeng Wei and Jian Xiao and Jie Wang},
+title = {3DT-CM: A Low-complexity Cross-matching Algorithm for Large Astronomical Catalogues Using 3d-tree Approach},
+journal = {Research in Astronomy and Astrophysics},
+abstract = {Location-based cross-matching is a preprocessing step in astronomy that aims to identify records belonging to the same celestial body based on the angular distance formula. The traditional approach involves comparing each record in one catalog with every record in the other catalog, resulting in a one-to-one comparison with high computational complexity. To reduce the computational time, index partitioning methods are used to divide the sky into regions and perform local cross-matching. In addition, cross-matching algorithms have been adopted on high-performance architectures to improve their efficiency. But the index partitioning methods and computation architectures only increase the degree of parallelism, and cannot decrease the complexity of pairwise-based cross-matching algorithm itself. A better algorithm is needed to further improve the performance of cross-matching algorithm. In this paper, we propose a 3d-tree-based cross-matching algorithm that converts the angular distance formula into an equivalent 3d Euclidean distance and uses 3d-tree method to reduce the overall computational complexity and to avoid boundary issues. Furthermore, we demonstrate the superiority of the 3d-tree approach over the 2d-tree method and implement it using a multi-threading technique during both the construction and querying phases. We have experimentally evaluated the proposed 3d-tree cross-matching algorithm using publicly available catalog data. The results show that our algorithm applied on two 32-core CPUs achieves equivalent performance than previous experiments conducted on a six-node CPU-GPU cluster.}
+}
