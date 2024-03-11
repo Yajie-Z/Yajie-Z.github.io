@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">3DT-CM: A Low-complexity Cross-matching Algorithm for Large Astronomical Catalogues using 3d-tree Approach</a></div>
+    <div class="title"><a href="https://iopscience.iop.org/article/10.1088/1674-4527/acee50/meta" target="_blank">3DT-CM: A Low-complexity Cross-matching Algorithm for Large Astronomical Catalogues using 3d-tree Approach</a></div>
     <div class="author">Yifei Mu, Ce Yu, Chao Sun, Kun Li, <strong>Yajie Zhang</strong>, Jizeng Wei, Jian Xiao, Jie Wang</div>
     <div class="periodical"><em>Research in Astronomy and Astrophysics, Sep. 2023.</em></div>
     <div class="links">
@@ -58,12 +58,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">HLC2: a highly efficient cross-matching framework for large astronomical catalogues on heterogeneous computing environments</a></div>
+    <div class="title"><a href="https://academic.oup.com/mnras/article/519/4/6381/6982913" target="_blank">HLC2: a highly efficient cross-matching framework for large astronomical catalogues on heterogeneous computing environments</a></div>
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jian Xiao, Kun Li, Yifei Mu, Chenzhou Cui </div>
     <div class="periodical"><em>Monthly Notices of the Royal Astronomical Society, Feb. 2023.</em></div>
     <div class="links">
       <a href="https://academic.oup.com/mnras/article/519/4/6381/6982913" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/Melody888Evan/HLC2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://github.com/Yajie-Z/HLC2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="assets/files/MN2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a></div>
   </div>
 </div>
@@ -80,12 +80,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">A Multilevel Scheduling Framework for Distributed Time-domain Large-area Sky Survey Telescope Array </a></div>
+    <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta">A Multilevel Scheduling Framework for Distributed Time-domain Large-area Sky Survey Telescope Array </a></div>
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Zhaohui Shang, Yi Hu, Huiyu Zhi, Jinmao Yang, Shanjiang Tang</div>
     <div class="periodical"><em>The Astronomical Journal, Feb. 2023.</em></div>
     <div class="links">
     <a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/Melody888Evan/Telescope_Array_Observation_Scheduler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://github.com/Yajie-Z/Telescope_Array_Observation_Scheduler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="assets/files/AJ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
@@ -103,7 +103,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Scalable framework of intelligent RFI flagging for large-scale HI survey data from FAST</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">Scalable framework of intelligent RFI flagging for large-scale HI survey data from FAST</a></div>
     <div class="author">Jian Xiao, <strong>Yajie Zhang</strong>, Bo Zhang, Zhicheng Yang, Ce Yu, Chenzhou Cui</div>
     <div class="periodical"><em>New Astronomy, Oct. 2022.</em></div>
     <div class="links">
@@ -124,7 +124,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">TSCat: Data Model and Storage Engine for AI-based Light Curve Analysis</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">TSCat: Data Model and Storage Engine for AI-based Light Curve Analysis</a></div>
     <div class="author">Kun Li, Ce Yu, Yanxia Zhang, Chao Sun, Jian Xiao, Chenzhou Cui, <strong>Yajie Zhang</strong>, Yifei Mu</div>
     <div class="periodical"><em>Monthly Notices of the Royal Astronomical Society, Aug. 2022.</em></div>
     <div class="links">
@@ -145,7 +145,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Astro-TS3: Time-series Subimage Search Engine for Archived Astronomical Data  (Astronomy and Computing)</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">Astro-TS3: Time-series Subimage Search Engine for Archived Astronomical Data  (Astronomy and Computing)</a></div>
     <div class="author">Qinlong Kang, Ce Yu, <strong>Yajie Zhang</strong>, Chenzhou Cui, Chao Sun, Jian Xiao, Shanjiang Tang</div>
     <div class="periodical"><em>Astronomy and Computing, Jan. 2021.</em></div>
     <div class="links">
