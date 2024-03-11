@@ -145,7 +145,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">Astro-TS3: Time-series Subimage Search Engine for Archived Astronomical Data  (Astronomy and Computing)</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">Astro-TS3: Time-series Subimage Search Engine for Archived Astronomical Data</a></div>
     <div class="author">Qinlong Kang, Ce Yu, <strong>Yajie Zhang</strong>, Chenzhou Cui, Chao Sun, Jian Xiao, Shanjiang Tang</div>
     <div class="periodical"><em>Astronomy and Computing, Jan. 2021.</em></div>
     <div class="links">
