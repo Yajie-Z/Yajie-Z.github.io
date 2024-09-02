@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 
-Hi! I am currently a fourth-year Ph.D. student in College of Intelligence and Computing at <a href="https://cic.tju.edu.cn/english/home.htm" target="_blank"> Tianjin University</a>, advised by Prof. <a href="http://cic.tju.edu.cn/faculty/yuce/index.html" target="_blank"> Ce Yu</a>. I received my B.E. degree from Hebei University of Technology in 2020. From 2019 to 2020, I had a joint training study program at <a href="https://www.massey.ac.nz/" target="_blank"> Massey University</a> and received my second Bachelor's degree.
+Hi! Yajie is currently a Ph.D. student in College of Intelligence and Computing at <a href="https://cic.tju.edu.cn/english/home.htm" target="_blank"> Tianjin University</a>, advised by Prof. <a href="http://cic.tju.edu.cn/faculty/yuce/index.html" target="_blank"> Ce Yu</a>, and at Ludwig Maximilians Universität München (LMU) advised by Prof. <a href="https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html" target="_blank"> Daniel Grüen </a>. I received my B.E. degree from Hebei University of Technology in 2020. From 2019 to 2020, I had a joint training study program at <a href="https://www.massey.ac.nz/" target="_blank"> Massey University</a> and received my second Bachelor's degree.
 
 My current research lies at the intersection of computer science and time-domain astronomical problems– with a special focus on building intelligent and efficient scheduling method of distributed telescope array for optical time-domain observations. My research interests include <strong>resource allocation and optimization, astronomical informatics, artificial intelligence, and high performance computing</strong>.
 
