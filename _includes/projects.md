@@ -40,9 +40,8 @@
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Yi Hu, Zhaohui Shang, Jizeng Wei, Xu Yang</div>
     <div class="periodical"><em>The Astronomical Journal, Oct. 2024.</em></div>
     <div class="links">
-<!--     <a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/Yajie-Z/Telescope_Array_Observation_Scheduler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="assets/files/AJ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>-->
+    <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad77ab" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="assets/files/IOPEXPORT_BIB.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div> 
   </div>
 </div>
