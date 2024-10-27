@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
 <br>
-<h3 id="publications" style="margin: 2px 0px -15px;">Observation Scheduling for Time-Domain Surveys with Telescope Array</h3>
+<h3 id="publications" style="margin: 2px 0px -15px;">Observation Scheduling for Time-Domain Surveys with Telescope Array: </h3>
 <div class="publications">
 <ol class="bibliography">
 
@@ -47,7 +47,8 @@
 </li>
   
   <br>
-<h3 id="publications" style="margin: 2px 0px -15px;">Optimization of Cross-Matching Algorithms</h3>
+<h3 id="publications" style="margin: 2px 0px -15px;">Optimization of Cross-Matching Algorithms: </h3>
+<br>
 <li>
 <div class="pub-row">
 
@@ -92,7 +93,7 @@
  <br>
 
 <h3 id="publications" style="margin: 2px 0px -15px;">Development of Astronomical Software Tools</h3>
-
+<br>
 <li>
 <div class="pub-row">
 
