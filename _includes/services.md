@@ -20,7 +20,8 @@
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2020-present]</strong> Teaching Assistant of Parallel Computing, Modern Computer Architecture, Tianjin University</li>
+  <li><strong>[2024-2025]</strong> Teaching Assistant of Computational Astrophysics Lab in Python, University of Munich</li>
+  <li><strong>[2020-2024]</strong> Teaching Assistant of Parallel Computing, Modern Computer Architecture, Tianjin University</li>
    </ul>
 
 <h4 style="margin:0 10px 0;">Translator</h4>
