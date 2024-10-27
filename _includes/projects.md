@@ -47,7 +47,7 @@
 </li>
   
   <br>
-<h3 id="publications" style="margin: 2px 0px -15px;">Optimization of Cross-Matching Algorithms: </h3>
+<h3 id="publications" style="margin: 2px 0px -15px;">Optimization of the Cross-Matching Algorithm: </h3>
 <br>
 <li>
 <div class="pub-row">
@@ -92,7 +92,7 @@
 
  <br>
 
-<h3 id="publications" style="margin: 2px 0px -15px;">Development of Astronomical Software Tools</h3>
+<h3 id="publications" style="margin: 2px 0px -15px;">Development of Astronomical Software Tools: </h3>
 <br>
 <li>
 <div class="pub-row">
