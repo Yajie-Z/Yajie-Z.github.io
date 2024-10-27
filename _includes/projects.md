@@ -1,5 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
-<h3 id="publications" style="margin: 2px 0px -15px;">testtest</h3>
+<li>
+<h3 id="publications" style="margin: 2px 0px -15px;">Observation Scheduling for Time-Domain Surveys with Telescope Array</h3>
 <div class="publications">
 <ol class="bibliography">
 
