@@ -1,33 +1,10 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
-<br><br>
+<br>
 <h3 id="publications" style="margin: 2px 0px -15px;">Observation Scheduling for Time-Domain Surveys with Telescope Array</h3>
 <div class="publications">
 <ol class="bibliography">
 
-<!-- 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/principalmanifold.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">Principal and Self-Consistent Positive Semi-Defnite Manifolds</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
-    <div class="links">
-    <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/Self-Consistency-Clustering" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div>
-  </div>
-</div>
-</li> -->
 <li>
 <div class="pub-row">
 
@@ -48,6 +25,29 @@
 </div>
 </li>
 <br>
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AJ.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AJ</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta">A Multilevel Scheduling Framework for Distributed Time-domain Large-area Sky Survey Telescope Array </a></div>
+    <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Zhaohui Shang, Yi Hu, Huiyu Zhi, Jinmao Yang, Shanjiang Tang</div>
+    <div class="periodical"><em>The Astronomical Journal, Feb. 2023.</em></div>
+    <div class="links">
+    <a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/Yajie-Z/Telescope_Array_Observation_Scheduler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="assets/files/AJ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+  <br>
+<h3 id="publications" style="margin: 2px 0px -15px;">Optimization of Cross-Matching Algorithms</h3>
 <li>
 <div class="pub-row">
 
@@ -91,28 +91,7 @@
 
  <br>
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AJ.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AJ</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta">A Multilevel Scheduling Framework for Distributed Time-domain Large-area Sky Survey Telescope Array </a></div>
-    <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Zhaohui Shang, Yi Hu, Huiyu Zhi, Jinmao Yang, Shanjiang Tang</div>
-    <div class="periodical"><em>The Astronomical Journal, Feb. 2023.</em></div>
-    <div class="links">
-    <a href="https://iopscience.iop.org/article/10.3847/1538-3881/acac24/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/Yajie-Z/Telescope_Array_Observation_Scheduler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="assets/files/AJ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-  <br>
 
 <li>
 <div class="pub-row">
