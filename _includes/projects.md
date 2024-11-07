@@ -105,14 +105,16 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad785b" target="_blank">LEAVES: An Expandable Light-curve Data Set for Automatic Classification of Variable Stars</a></div>
-    <div class="author">Jian Xiao, <strong>Yajie Zhang</strong>, Bo Zhang, Zhicheng Yang, Ce Yu, Chenzhou Cui</div>
+    <div class="author">Ya Fei, Ce Yu, Kun Li, Xiaodian Chen, <strong>Yajie Zhang</strong>, Chenzhou Cui, Yunfei Xu, Yihan Tao </div>
     <div class="periodical"><em>APJS, Nov. 2024.</em></div>
     <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad785b" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
        </div>
 	</div>
 </div>
 </li>
+
+<br>
 
 <li>
 <div class="pub-row">
