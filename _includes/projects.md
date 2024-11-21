@@ -47,6 +47,27 @@
 </li>
   
   <br>
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AJ.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RAA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://iopscience.iop.org/article/10.1088/1674-4527/ad9429">Relay Observation Scheduling of Global Distributed Telescope Array Based on Integer Programming </a></div>
+    <div class="author">Junhan Ju, Ce Yu, Yi Hu,<strong>Yajie Zhang</strong>, Chao Sun and Jizeng Wei</div>
+    <div class="periodical"><em>Research in Astronomy and Astrophysics, Nov. 2024.</em></div>
+    <div class="links">
+    <a href="https://iopscience.iop.org/article/10.1088/1674-4527/ad9429" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
 <h3 id="publications" style="margin: 2px 0px -15px;">Optimization of the Cross-Matching Algorithm: </h3>
 <br>
 <li>
