@@ -167,7 +167,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">TSCat: Data Model and Storage Engine for AI-based Light Curve Analysis</a></div>
+    <div class="title"><a href="https://academic.oup.com/mnras/article/514/4/4756/6612744" target="_blank">TSCat: Data Model and Storage Engine for AI-based Light Curve Analysis</a></div>
     <div class="author">Kun Li, Ce Yu, Yanxia Zhang, Chao Sun, Jian Xiao, Chenzhou Cui, <strong>Yajie Zhang</strong>, Yifei Mu</div>
     <div class="periodical"><em>Monthly Notices of the Royal Astronomical Society, Aug. 2022.</em></div>
     <div class="links">
