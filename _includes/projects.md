@@ -8,23 +8,22 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AJ2.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AJ</abbr>
+    <img src="assets/img/ROARS.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">FGCS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad77ab">Solving Online Resource-Constrained Scheduling for Follow-Up Observation in Astronomy: a Reinforcement Learning Approach </a></div>
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jizeng Wei, Junhan Ju, Zhaohui Shang </div>
-    <div class="periodical"><em>Future Generation Computer Systems, Feb. 2025.</em></div>
-    <div class="links">
+    <div class="periodical"><em>Future Generation Computer Systems, accepted, Feb. 2025.</em></div>
+<!--     <div class="links">
     <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad77ab" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="assets/files/IOPEXPORT_BIB.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div> 
+    </div>  -->
   </div>
 </div>
 </li>
 <br>
-<li>
 	
 <li>
 <div class="pub-row">
