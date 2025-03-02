@@ -16,10 +16,10 @@
     <div class="title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad77ab">Solving Online Resource-Constrained Scheduling for Follow-Up Observation in Astronomy: a Reinforcement Learning Approach </a></div>
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jizeng Wei, Junhan Ju, Zhaohui Shang </div>
     <div class="periodical"><em>Future Generation Computer Systems, accepted, Feb. 2025.</em></div>
-<!--     <div class="links">
-    <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad77ab" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="assets/files/IOPEXPORT_BIB.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div>  -->
+    <div class="links">
+    <a href="https://arxiv.org/abs/2502.11134" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+<!--       <a href="assets/files/IOPEXPORT_BIB.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div> 
   </div>
 </div>
 </li>
