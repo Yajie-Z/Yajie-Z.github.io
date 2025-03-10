@@ -17,7 +17,7 @@
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jizeng Wei, Junhan Ju, Zhaohui Shang </div>
     <div class="periodical"><em>Future Generation Computer Systems, accepted, Feb. 2025.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2502.11134" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0167739X25000767?dgcid=coauthor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
 <!--       <a href="assets/files/IOPEXPORT_BIB.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div> 
   </div>
