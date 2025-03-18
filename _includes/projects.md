@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0167739X25000767?dgcid=coauthor">Solving Online Resource-Constrained Scheduling for Follow-Up Observation in Astronomy: a Reinforcement Learning Approach </a></div>
-    <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jizeng Wei, Junhan Ju, Zhaohui Shang </div>
+    <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jizeng Wei, Junhan Ju, Shanjiang Tang </div>
     <div class="periodical"><em>Future Generation Computer Systems, accepted, Feb. 2025.</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0167739X25000767?dgcid=coauthor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
