@@ -12,9 +12,7 @@ I received my B.E. degree from Hebei University of Technology in 2020. From 2019
 
 My research lies at the intersection of computer science and time-domain astronomy, with a focus on developing intelligent and efficient scheduling methods for distributed telescope arrays in optical time-domain surveys. My research interests broadly include resource allocation and optimization, AI for Science, artificial intelligence, and high-performance computing.
 
-🎉 I will join School of Computer Software, Tianjin University as an Assistant Professor in December 2025.
-I am actively seeking collaborations in computer science, AI for astronomy, intelligent scheduling, and time-domain astronomy.
-Feel free to reach out — I’m always happy to discuss research ideas or potential collaborations.
+🎉 I will join School of Computer Software, Tianjin University as an Assistant Professor in December 2025. I am actively seeking collaborations in AI for astronomy, intelligent scheduling, and astronomical information technology. Feel free to reach out, I’m always happy to discuss research ideas or potential collaborations.
 
 📧 Email: zyj0928[at]tju[dot]edu[dot]cn
 
