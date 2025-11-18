@@ -12,17 +12,12 @@ I received my B.E. degree from Hebei University of Technology in 2020. From 2019
 
 My research lies at the intersection of computer science and time-domain astronomy, with a focus on developing intelligent and efficient scheduling methods for distributed telescope arrays in optical time-domain surveys. My research interests broadly include resource allocation and optimization, AI for Science, artificial intelligence, and high-performance computing.
 
-🎉 I will join Tianjin University as an Assistant Professor in December 2025.
+🎉 I will join School of Computer Software, Tianjin University as an Assistant Professor in December 2025.
 I am actively seeking collaborations in computer science, AI for astronomy, intelligent scheduling, and time-domain astronomy.
 Feel free to reach out — I’m always happy to discuss research ideas or potential collaborations.
+
 📧 Email: zyj0928[at]tju[dot]edu[dot]cn
-<!-- Hi! I am currently a Ph.D. student in College of Intelligence and Computing at <a href="https://cic.tju.edu.cn/english/home.htm" target="_blank"> Tianjin University</a>, advised by Prof. <a href="http://cic.tju.edu.cn/faculty/yuce/index.html" target="_blank"> Ce Yu</a>, and at <a href="https://www.lmu.de/en/" target="_blank"> the Ludwig-Maximilians-Universität München (LMU) </a> advised by Prof. <a href="https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html" target="_blank"> Daniel Grün </a>. I received my B.E. degree from Hebei University of Technology in 2020. From 2019 to 2020, I attended a joint training study program at <a href="https://www.massey.ac.nz/" target="_blank"> Massey University</a> and received my second Bachelor's degree.
 
-My current research lies at the intersection of computer science and time-domain astronomical problems– with a special focus on building intelligent and efficient scheduling methods for distributed telescope arrays for optical time-domain observations. My research interests include <strong>resource allocation and optimization, AI for Science, artificial intelligence, and high performance computing</strong>.
-
-<span>I am currently on the 2025 academic job market, looking for faculty positions in computer science, AI for astronomy, management operational research etc., related to artificial intelligence, task scheduling, and time-domian astronomy. Please feel free to contact me if you are interested in any aspect, I would love to chat and collaborate, please email me at- zyj0928[at]tju[dot]edu[dot]cn </span>
-
--->
 
 
 
