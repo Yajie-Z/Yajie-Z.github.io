@@ -137,21 +137,22 @@
  <br>
 
 <h3 id="publications" style="margin: 2px 0px -15px;">Development of Astronomical Software Tools: </h3>
+<br>
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/NA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NA</abbr>
+    <abbr class="badge">PASP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">SPGrid: a
+    <div class="title"><a href="https://iopscience.iop.org/article/10.1088/1538-3873/adbff7" target="_blank">SPGrid: a
 Straightforward Parallel Gridding Approach for Single-dish Radio Telescope</a></div>
-    <div class="author">Jian Xiao, <strong>Yajie Zhang</strong>, Bo Zhang, Zhicheng Yang, Ce Yu, Chenzhou Cui</div>
-    <div class="periodical"><em>New Astronomy, Oct. 2022.</em></div>
+    <div class="author">Weidi Yang, Ce Yu, Jian Xiao, Hao Wang, <strong>Yajie Zhang</strong>, Shuo Su</div>
+    <div class="periodical"><em>PASP, Mar. 2025.</em></div>
     <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://iopscience.iop.org/article/10.1088/1538-3873/adbff7/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
        </div>
 	</div>
 </div>
