@@ -109,8 +109,10 @@
   </div>
 </div>
 </li>
-
 <br>
+
+
+
 
 <li>
 <div class="pub-row">
@@ -121,7 +123,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/mnras/article/519/4/6381/6982913" target="_blank">HLC2: a highly efficient cross-matching framework for large astronomical catalogues on heterogeneous computing environments</a></div>
+    <div class="title"><a href="https://academic.oup.com/mnras/article/519/4/6381/6982913" target="_blank">HLC2: a Highly Efficient Cross-matching Framework for Large Astronomical Catalogues on Heterogeneous Computing Environments</a></div>
     <div class="author"><strong>Yajie Zhang</strong>, Ce Yu, Chao Sun, Jian Xiao, Kun Li, Yifei Mu, Chenzhou Cui </div>
     <div class="periodical"><em>Monthly Notices of the Royal Astronomical Society, Feb. 2023.</em></div>
     <div class="links">
@@ -135,6 +137,26 @@
  <br>
 
 <h3 id="publications" style="margin: 2px 0px -15px;">Development of Astronomical Software Tools: </h3>
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/NA.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" target="_blank">SPGrid: a
+Straightforward Parallel Gridding Approach for Single-dish Radio Telescope</a></div>
+    <div class="author">Jian Xiao, <strong>Yajie Zhang</strong>, Bo Zhang, Zhicheng Yang, Ce Yu, Chenzhou Cui</div>
+    <div class="periodical"><em>New Astronomy, Oct. 2022.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1384107622000434" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+       </div>
+	</div>
+</div>
+</li>
+
 <br>
 
 <li>
