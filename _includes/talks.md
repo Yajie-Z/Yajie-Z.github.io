@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/chinavo 2025.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/chinavo2025.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">China-VO 2025</abbr>
   </div>
 
