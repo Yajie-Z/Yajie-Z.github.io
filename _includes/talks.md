@@ -8,6 +8,24 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/adass 2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">China-VO Annual Meeting, Apr. 2025, Haikou, China.</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.um.edu.mt/events/adass2024/" target="_blank">Observation Scheduling Software Framework for Distributed Telescope Arrays in Time-Domain Surveys</a></div>
+   
+    <div class="periodical"><em>ADASS XXXIV, Nov. 2024, Valletta, Malta.</em></div>
+  </div>
+</div>
+</li>
+<br>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/adass 2024.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ADASS 2024</abbr>
   </div>
 
