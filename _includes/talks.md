@@ -12,7 +12,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.um.edu.mt/events/adass2024/" target="_blank">A Multi-level Scheduling Method for Autonomous Intelligent Sky Survey</a></div>
+    <div class="title"><a href="https://nadc.china-vo.org/events/cvo2025" target="_blank">A Multi-level Scheduling Method for Autonomous Intelligent Sky Survey</a></div>
+    
     <div class="periodical"><em>Annual Meeting, Apr. 2025, Haikou, China.</em></div>
   </div>
 </div>
