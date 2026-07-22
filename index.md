@@ -4,15 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I am currently a Ph.D. candidate in the College of Intelligence and Computing at
-<a href="https://cic.tju.edu.cn/english/home.htm" target="_blank">Tianjin University</a>, advised by Prof. <a href="http://cic.tju.edu.cn/faculty/yuce/index.html" target="_blank">Ce Yu</a>, and at
-<a href="https://www.lmu.de/en/" target="_blank">Ludwig-Maximilians-Universität München (LMU)</a> advised by Prof. <a href="https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html" target="_blank">Daniel Grün</a>.
-I received my B.E. degree from Hebei University of Technology in 2020. From 2019 to 2020, I participated in a joint training program at
-<a href="https://www.massey.ac.nz/" target="_blank">Massey University</a> and earned my second Bachelor’s degree.
+Hi! I am an Assistant Professor at the School of Computer Software, Tianjin University. I received my Ph.D. degree from the College of Intelligence and Computing, <a href="https://cic.tju.edu.cn/english/home.htm" target="_blank">Tianjin University</a>, under the supervision of Prof. <a href="http://cic.tju.edu.cn/faculty/yuce/index.html" target="_blank">Ce Yu</a>, and completed a joint Ph.D. training program at <a href="https://www.lmu.de/en/" target="_blank">Ludwig-Maximilians-Universität München (LMU)</a> advised by Prof. <a href="https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html" target="_blank">Daniel Grün</a>. I received my B.E. degree from Hebei University of Technology in 2020. From 2019 to 2020, I participated in a joint training program at<a href="https://www.massey.ac.nz/" target="_blank">Massey University</a> and earned my second Bachelor’s degree.
 
 My research lies at the intersection of computer science and time-domain astronomy, with a focus on developing intelligent and efficient scheduling methods for distributed telescope arrays in optical time-domain surveys. My research interests broadly include resource allocation and optimization, AI for Science, artificial intelligence, and high-performance computing.
 
-🎉 I will join School of Computer Software, Tianjin University as an Assistant Professor in December 2025. I am actively seeking collaborations in AI for astronomy, intelligent scheduling, and astronomical information technology. Feel free to reach out, I’m always happy to discuss research ideas or potential collaborations.
+🎉 I welcome collaborations with researchers working on AI for Astronomy, intelligent scheduling, and astronomical information technology. I am also looking for motivated undergraduate and graduate students who are interested in these areas to join my research. Feel free to reach out if you would like to discuss research ideas or potential collaborations!
 
 📧 Email: zyj0928[at]tju[dot]edu[dot]cn
 
